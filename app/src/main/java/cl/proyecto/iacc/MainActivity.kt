@@ -1,4 +1,4 @@
-package cl.protecto.iacc
+package cl.proyecto.iacc
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
